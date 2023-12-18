@@ -21,6 +21,6 @@ We employ AdapterFusion on a classsic Arabic NLP problem, *Dialect Identificatio
 - [ArSarcasm](https://paperswithcode.com/paper/from-arabic-sentiment-analysis-to-sarcasm), _Tweets_
 - [QADI](https://aclanthology.org/2021.wanlp-1.1/), _Tweets_
 
-**Code for adapter-training and adapterfusion available in repo for re-producing**
+<sub>_**Code for adapter-training and adapterfusion available in repo for re-producing**)**_</sub>
 
 
