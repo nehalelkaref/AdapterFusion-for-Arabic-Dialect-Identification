@@ -31,8 +31,4 @@ def compute_metrics(pred_list):
                 "precision": precision,
                 "recall": recall, 
                 "f1": f1}
-    if(f1>best_f1):
-        print('Found new best F1 score: ', f1)
-    else:
-        print('No higher F1 score found')
     return score_dict
